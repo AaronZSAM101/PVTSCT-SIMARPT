@@ -1,7 +1,7 @@
 SIL
-m_Visible:1
+m_Visible:0
 m_X:0
-m_Y:68
+m_Y:45
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:14
@@ -22,9 +22,9 @@ m_Column:INBO:5:1:50:0:0:1::::1:0.0
 m_Column:SQWK:5:1:60:31:0:1::::0:0.0
 END
 SEL
-m_Visible:1
+m_Visible:0
 m_X:0
-m_Y:81
+m_Y:58
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -45,7 +45,7 @@ END
 DEP
 m_Visible:0
 m_X:0
-m_Y:94
+m_Y:71
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:2

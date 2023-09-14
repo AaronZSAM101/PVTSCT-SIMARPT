@@ -13,7 +13,7 @@ Stars:line:1907997:3.0:2:1:7
 ARTCC high boundary:line:0:3.0:0:1:7
 ARTCC boundary:line:8421631:3.0:0:1:7
 ARTCC low boundary:line:0:3.0:0:1:7
-Geo:line:7105644:3.0:0:1:7
+Geo:line:0:3.0:0:1:7
 VORs:symbol:16711680:3.0:0:1:7
 VORs:name:16711680:3.5:0:0:2
 VORs:frequency:16711680:3.5:0:0:0
