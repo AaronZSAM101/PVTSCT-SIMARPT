@@ -1,0 +1,70 @@
+SIL
+m_Visible:1
+m_X:0
+m_Y:59
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:13
+m_HeaderOnly:0
+m_Column:Rwy:3:0:47:19:0:1::::1
+m_Column:C/S:8:1:9:0:0:1::::8
+m_Column:Type:7:1:78:0:0:1::::1
+m_Column:R:1:1:63:0:0:1::::4
+m_Column:Dep:4:1:61:7:0:1::::4
+m_Column:Arr:4:1:17:7:1:1::::4
+m_Column:StE:6:1:1013:1028:0:1:Telephonics:Telephonics::-1
+m_Column:STAR:7:1:55:1030:0:1::Telephonics::1
+m_Column:SI:6:1:64:0:0:0::::4
+m_Column:S/Pad:8:1:19:29:0:1::::3
+m_Column:Crz:6:1:1002:1008:1002:1:Telephonics:Telephonics:Telephonics:4
+m_Column:COPN:5:1:48:21:0:1::::1
+m_Column:Inbn:5:1:50:0:0:1::::-1
+END
+SEL
+m_Visible:1
+m_X:0
+m_Y:91
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:8
+m_HeaderOnly:0
+m_Column:C/S:8:1:22:8:33:1:TopSky plugin:::1
+m_Column:S/Pad:8:1:19:29:0:1::::0
+m_Column:Dep:4:1:61:7:0:1::::1
+m_Column:Arr:4:1:17:7:99:1:::TopSky plugin:1
+m_Column:SiE:6:1:1012:1024:1024:1:Telephonics:Telephonics:Telephonics:-1
+m_Column:SID:7:1:1014:17:1026:1:Telephonics::Telephonics:1
+m_Column:StE:6:1:1013:1028:1028:1:Telephonics:Telephonics:Telephonics:-1
+m_Column:STAR:7:1:1015:18:1030:1:Telephonics::Telephonics:1
+m_Column:Rwy:3:0:47:19:19:1::::1
+m_Column:Crz:6:1:1002:1008:12:1:Telephonics:Telephonics:TopSky plugin:2001427528
+m_Column:ASSR:5:1:60:31:81:1:::TopSky plugin:1
+m_Column:EXIT:5:1:53:0:0:1::::-1
+m_Column:COPX:6:1:75:45:0:1:TopSky plugin:TopSky plugin::-1
+m_Column:CLAM:5:1:67:0:0:1::::-1
+m_Column:RAM:4:1:68:0:0:1::::-1
+END
+DEP
+m_Visible:1
+m_X:0
+m_Y:123
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:C/S:8:1:22:1001:0:1:TopSky plugin:TopSky plugin::8
+m_Column:STS:5:1:59:28:0:1::::-1
+m_Column:Type:7:1:78:0:0:1::::1
+m_Column:R:2:1:63:0:0:1::::4
+m_Column:Dep:4:1:61:7:0:1::::4
+m_Column:Arr:4:1:17:7:1:1::::4
+m_Column:Rwy:5:1:47:19:0:1::::1
+m_Column:SiE:6:1:1012:1024:0:1:Telephonics:Telephonics::-1
+m_Column:SID:7:1:1014:1026:0:1:Telephonics:Telephonics::1
+m_Column:SI:6:1:64:0:0:0::::4
+m_Column:S/Pad:8:1:19:29:0:1::::3
+m_Column:Alt:5:1:1006:1006:1000:1:Telephonics:Telephonics:Telephonics:4
+m_Column:Crz:6:1:1002:1008:1002:1:Telephonics:Telephonics:Telephonics:4
+m_Column:ASSR:5:1:60:31:0:1::::1
+m_Column:DCL:7:1:444:544:0:1:vSMR:vSMR::1
+END

@@ -1,0 +1,100 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:F:\Files\Flight Simulation Development\PVTSCT-SIM_ARPT\Hangda Approach\All\Sectors\ZTTT_TMA.sct
+SECTORTITLE:ZTTT_TMA.sct
+Airports:ZTBA:name
+Airports:ZTBA:symbol
+Airports:ZTNP:name
+Airports:ZTNP:symbol
+Airports:ZTTT:name
+Airports:ZTTT:symbol
+ARTCC boundary:ZBPE_FIR:
+ARTCC boundary:ZT(R)-001:
+ARTCC boundary:ZT(R)-002:
+ARTCC boundary:ZT(R)-003:
+ARTCC low boundary:ZTBN_TWR:
+ARTCC low boundary:ZTNP_TWR:
+ARTCC low boundary:ZTTT_APP:
+ARTCC low boundary:ZTTT_TWR:
+Fixes:DELTA:name
+Fixes:DELTA:symbol
+Fixes:HOTEL:name
+Fixes:HOTEL:symbol
+Fixes:INDIA:name
+Fixes:INDIA:symbol
+Fixes:OSCAR:name
+Fixes:OSCAR:symbol
+Geo:ZTTT_MSA:
+NDBs:BR:frequency
+NDBs:BR:name
+NDBs:BR:symbol
+NDBs:CH:frequency
+NDBs:CH:name
+NDBs:CH:symbol
+NDBs:FO:frequency
+NDBs:FO:name
+NDBs:FO:symbol
+NDBs:ON:frequency
+NDBs:ON:name
+NDBs:ON:symbol
+NDBs:OS:frequency
+NDBs:OS:name
+NDBs:OS:symbol
+NDBs:TG:frequency
+NDBs:TG:name
+NDBs:TG:symbol
+NDBs:TN:frequency
+NDBs:TN:name
+NDBs:TN:symbol
+NDBs:TS:frequency
+NDBs:TS:name
+NDBs:TS:symbol
+Runways:ZTTT ZHONGHANGDA 18-36:centerline
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 1
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 1 left base
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 1 left ticks
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 1 left vectoring
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 1 right base
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 1 right ticks
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 1 right vectoring
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 2
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 2 left base
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 2 left ticks
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 2 left vectoring
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 2 right base
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 2 right ticks
+Runways:ZTTT ZHONGHANGDA 18-36:extended centerline 2 right vectoring
+Runways:ZTTT ZHONGHANGDA 18-36:name
+VORs:ALF:frequency
+VORs:ALF:name
+VORs:ALF:symbol
+VORs:ECH:frequency
+VORs:ECH:name
+VORs:ECH:symbol
+VORs:GOL:frequency
+VORs:GOL:name
+VORs:GOL:symbol
+VORs:JUI:frequency
+VORs:JUI:name
+VORs:JUI:symbol
+VORs:ROM:frequency
+VORs:ROM:name
+VORs:ROM:symbol
+VORs:TTT:frequency
+VORs:TTT:name
+VORs:TTT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:0.00000
+TAGFAMILY:EuroCAT-X For SweatBox
+WINDOWAREA:39.099152:113.972239:40.789480:118.131769
