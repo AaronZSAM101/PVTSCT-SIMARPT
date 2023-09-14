@@ -14,7 +14,7 @@ m_CenterlineTickInterval:2.0
 m_CenterlineTickLength:0.5
 m_CenterlineMarkerLength:1.0
 m_CenterlineMarkerInterval:10.0
-m_CenterlineVectorDme:17.0
+m_CenterlineVectorDme:13.0
 m_CenterlineVectorLength:6.0
 m_CenterlineVectorAngle:30.0
 m_CenterlineVectorBase:10.0

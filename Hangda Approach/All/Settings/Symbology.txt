@@ -6,20 +6,20 @@ Low airways:line:7105644:3.0:2:1:7
 Low airways:name:6447714:3.5:0:0:8
 High airways:line:7105644:3.0:2:1:7
 High airways:name:6447714:3.5:0:0:8
-Fixes:symbol:7105644:3.0:0:1:7
-Fixes:name:6447714:3.5:0:0:2
+Fixes:symbol:0:3.0:0:1:7
+Fixes:name:0:3.5:0:0:2
 Sids:line:11906432:3.0:0:1:7
 Stars:line:1907997:3.0:2:1:7
-ARTCC high boundary:line:7105644:3.0:0:1:7
-ARTCC boundary:line:11855590:3.0:1:1:7
-ARTCC low boundary:line:4605510:3.0:1:1:7
+ARTCC high boundary:line:0:3.0:0:1:7
+ARTCC boundary:line:8421631:3.0:0:1:7
+ARTCC low boundary:line:0:3.0:0:1:7
 Geo:line:7105644:3.0:0:1:7
-VORs:symbol:7105644:3.0:0:1:7
-VORs:name:6447714:3.5:0:0:2
-VORs:frequency:6447714:3.5:0:0:0
-NDBs:symbol:7105644:3.0:0:1:7
-NDBs:name:6447714:3.5:0:0:2
-NDBs:frequency:6447714:3.5:0:0:0
+VORs:symbol:16711680:3.0:0:1:7
+VORs:name:16711680:3.5:0:0:2
+VORs:frequency:16711680:3.5:0:0:0
+NDBs:symbol:0:3.0:0:1:7
+NDBs:name:0:3.5:0:0:2
+NDBs:frequency:0:3.5:0:0:0
 Runways:centerline:7105644:3.0:0:5:7
 Runways:extended centerline:11468718:3.5:0:1:7
 Runways:name:16777215:3.5:0:0:7
@@ -76,7 +76,7 @@ Other:free of conflict:65280:3.5:0:2:7
 Other:conflict warning:65535:3.5:0:2:7
 Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:11855615:3.5:0:2:0
-Other:freetext:5921370:3.6:0:0:0
+Other:freetext:0:3.6:0:0:0
 Other:range rings:16512:5.0:0:0:2
 Other:off antenna range rings:255:5.0:0:0:2
 Other:plane range rings:5921370:5.0:0:0:2
