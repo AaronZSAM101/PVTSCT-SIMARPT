@@ -1,7 +1,0 @@
-Setup_AutoSignIn=1
-WXR_Latitude=36
-WXR_Latitude_Max=60
-WXR_Latitude_Min=10
-WXR_Longitude=107
-WXR_Longitude_Max=160
-WXR_Longitude_Min=60
